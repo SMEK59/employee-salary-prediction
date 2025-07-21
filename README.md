@@ -6,7 +6,7 @@ This project is a smart web application that predicts employee salaries based on
 
 ## Features
 
-Real-time salary prediction with multiple ML models
+* Real-time salary prediction with multiple ML models
 
 Data preprocessing: cleaning, encoding, scaling
 
