@@ -52,7 +52,7 @@ This project is a smart web application that predicts employee salaries based on
 <img width="2000" height="933" alt="image" src="https://github.com/user-attachments/assets/79de9225-5bb1-43d6-abc4-4dc690412bc6" />
 
 <img width="244" height="1125" alt="image" src="https://github.com/user-attachments/assets/4e32941f-c495-4f1c-a807-e0a1a9edb8cc" />
-<img width="226" height="1125" alt="image" src="https://github.com/user-attachments/assets/a5711ddb-6bb6-4776-aced-70dd4850335b" />
+
 
 <img width="1484" height="1125" alt="image" src="https://github.com/user-attachments/assets/7aa8d557-c22e-45a1-b584-7e15e7e6ee28" />
 
